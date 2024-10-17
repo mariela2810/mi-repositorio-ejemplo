@@ -1,1 +1,1 @@
-Este es un archivo de ejemplo (reintento) para el curso de github
+Esta es una segunda linea en el branch nueva-funcionalidad
